@@ -1,3 +1,3 @@
 # harshoutlaw-demo
-This is my first git repositor
+This is my first git repository
 Author-Harsh raj singh
